@@ -3,3 +3,5 @@
 参考文档：[vue-element-admin配置文档](https://panjiachen.gitee.io/vue-element-admin-site/zh/)
 
 参考人才：[福神](https://github.com/lfalive)
+
+[在线demo](http://blog.cuper.top/vue-element-admin_single_page_try/)
